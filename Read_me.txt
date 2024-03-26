@@ -33,4 +33,7 @@ Following procedure can be used if the reader wants to run the sampling of the c
 8) Upload and run the batch files using (sbatch) command in the linux shell of LiDo. 
 9) After successful execution, download the folder containing .pkl files for the results and copy the plan.pkl file that was used to generate those results in the same folder.
 10) Use data_post_processing_2.py to generate results for the scenario approach and the scenario approach with ambiguity.
+
+LiDo = LiDo3 high-performance linux computing cluster of TU Dortmund
+IDAS = SUNDIALS differential-algebraic system of equations solver
   
